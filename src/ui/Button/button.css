@@ -1,0 +1,9 @@
+.default {
+  display: flex;
+  align-items: center;
+  padding: 10px 20px;
+  border: none;
+  background-color: #1473E6;
+  color: #fff;
+  cursor: pointer;
+}
